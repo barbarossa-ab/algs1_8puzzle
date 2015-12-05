@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
 <!-- saved from url=(0063)http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
